@@ -4,17 +4,23 @@
 
 🎯 Desafios:
 ● Simulação de tarefas com prioridade
+
 ● Interpretação de expressões em notação polonesa
+
 ● Simulações com bombas e detonação em cadeia
+
 ● Movimento de robô em grade com obstáculos
+
 
 🚀 Tecnologias:
 ● Python
+
 
 📋 Estrutura:
 O repositório inclui scripts de Python para resolver os desafios, cada um em um arquivo separado.
 
 🛠️ Como executar:
 ● Clone o repositório
+
 ● Execute os scripts conforme necessário
 
